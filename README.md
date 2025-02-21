@@ -1,5 +1,5 @@
 ### Hello! My name is Andrey!
->I am a `frontend-developer` with experience in building web applications. I specialize in using languages and technologies such as JavaScript and the React framework.
+>I am a `frontend-developer` with experience in building web applications. I specialize in using languages and technologies such as JavaScript, React framework and more.
 ---
 >I focus particularly on creating interactive user interfaces, and I use the Redux Toolkit library to efficiently manage application state and simplify the development process.
 ---
@@ -30,6 +30,9 @@
     * CSS
     * React
     * Redux-Toolkit
+    * Next JS
+    * Zustand
+    * Tailwind
     * Jest
     * Playwright
     * Git
